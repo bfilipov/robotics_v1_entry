@@ -1,0 +1,7 @@
+.idea
+__pycache__/
+python/utils/__pycache__/
+python/big_test_case/
+python/small_test_data/
+python/input.bin
+python/output.bin
